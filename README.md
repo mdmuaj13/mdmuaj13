@@ -2,7 +2,7 @@
 # Hola, I'm Mohaiminul Hasan 👋
 Human Being. 👨  That's it nothing more.
 
-![Bored](files/dino.gif "Bored !")
+![Bored](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/dino.gif "Bored !")
 
 - 👨‍💼 Currently working as a Backend Developer 🏢 Landknock Ltd
 - 🌱 Learning Node, Native Android
@@ -12,12 +12,12 @@ Human Being. 👨  That's it nothing more.
 
 
 
-![Programming Info](files/info.png "Programming Info")
+![Programming Info](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/info.png "Programming Info")
 
 🙋 Contact Me
 
 <a href="mailto:iammuaj@gmail.com">
-    <img align="left" alt="Mail " width="21px" src="files/mail.png" />
+    <img align="left" alt="Mail " width="21px" src="https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/mail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/md-mohaiminul-hasan/">
