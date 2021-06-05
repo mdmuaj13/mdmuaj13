@@ -4,11 +4,11 @@ Human Being. 👨  That's it nothing more.
 
 ![Bored](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/dino.gif "Bored !")
 
-- 👨‍💼 Currently working as a Backend Developer 🏢 Landknock Ltd
-- 🌱 Learning Node, Native Android
-- 🙌 Practiceing Laravel, Node & Flutter
+- 👨‍💼 Currently working as a Backend Developer 🏢 AlgoSolver LLC.
+- 🌱 Learning React, AWS
+- 🙌 Practiceing Node, Laravel & Flutter
 
-- 💬 Ask me about Laravel, Flutter  
+- 💬 Ask me about Laravel, Node  
 
 
 
