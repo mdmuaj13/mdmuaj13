@@ -1,14 +1,15 @@
 
 # Hola, I'm Mohaiminul Hasan 👋
-Human Being. 👨  That's it nothing more.
+Human Being. 🙂 
+Isn't it enough?! Okay, Let's try again. 
 
-![Bored](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/dino.gif "Bored !")
 
 #### Who I am?
-- A solution architect based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have more than 4 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
+- A product architect based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 🇧🇩
+- Have more than 4 years of hands-on experience in **application development, technology consulting, stakeholder engagement, product architect.**
 - Developed products for **marketplace, logistics,** and **retails** business domains.
 - Have built **hybrid mobile app,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+
 
 #### What I'm doing?
 - 🏢 Working at **[Algosolver LLC](https://algosolver.com/)** as a **Lead Backend Engineer**.
@@ -30,7 +31,8 @@ Human Being. 👨  That's it nothing more.
     - **🔭 Frameworks:** • `ReactJs` • `NextJs` • `Svelte`  • `Laravel` 
     
 <!--     - **🔌 Communication protocols:** • -->
-
+#### :yawning_face: Bored?
+![Bored](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/dino.gif "Bored !")
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `new frameworks` and `tech culture`.
