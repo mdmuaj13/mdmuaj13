@@ -22,11 +22,13 @@ Human Being. 👨  That's it nothing more.
     - **📜 Languages:** • `🌀 Typescript` • `✨ Javascript` • `⚡ GO` • `🧩 PHP`
     - **🔭 Frameworks:** • `NestJs` • `Express` • `Laravel`
     - **💾 Databases:** • `Postgres` • `MySql` • `MongoDB` • `Redis` • `SQLite`  
-<!--     - **🎛 System architecture:** • -->
-<!--     - **🔌 Communication protocols:** • -->
+    - **🔌 Servers:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+    - **🎛 Tools:** ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+
 - 🖥 **Front-end:** 
     - **📜 Languages:** • `🌀 Typescript` • `✨ Javascript` • `🧩 PHP` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
     - **🔭 Frameworks:** • `ReactJs` • `NextJs` • `Svelte`  • `Laravel` 
+    
 <!--     - **🔌 Communication protocols:** • -->
 
 
@@ -37,24 +39,25 @@ Human Being. 👨  That's it nothing more.
 
 #### 🙋 Contact Me
 
+
 <a href="mailto:iammuaj@gmail.com">
-    <img align="left" alt="Mail " width="21px" src="https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/mail.png" />
+    <img align="left" alt="Mail " width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/md-mohaiminul-hasan/">
-    <img align="left" alt="Md. Mohaiminul Hasan Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
+    <img align="left" alt="Md. Mohaiminul Hasan Linkdin" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 
 <a href="https://mohaiminul.info/">
-    <img align="left" alt="Mohaiminul Hasan" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Fwww.svg?alt=media&token=18d94c5d-5df5-4f38-80e3-2f515df0f47d" />
+    <img align="left" alt="Mohaiminul Hasan" width="100px" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/mdmuaj" style="margin: 20px;">
-    <img align="left" alt="mdmuaj Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />
+<a href="https://twitter.com/mdmuaj">
+    <img align="left" alt="mdmuaj Twitter" width="100px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a> 
 
 <a href="https://www.facebook.com/mhmuaj">
-    <img align="left" alt="Mohaiminul Hasan Facebook" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
+    <img align="left" alt="Mohaiminul Hasan Facebook" width="100px" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)" />
 </a> 
 
 </br> 
