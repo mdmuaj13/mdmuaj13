@@ -4,15 +4,36 @@ Human Being. 👨  That's it nothing more.
 
 ![Bored](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/dino.gif "Bored !")
 
-- 👨‍💼 Currently working as a Backend Developer 🏢 AlgoSolver LLC.
-- 🌱 Learning React, AWS
-- 🙌 Practiceing Node, Laravel & Flutter
+#### Who I am?
+- A solution architect based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have more than 4 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
+- Developed products for **marketplace, logistics,** and **retails** business domains.
+- Have built **hybrid mobile app,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
-- 💬 Ask me about Laravel, Node  
+#### What I'm doing?
+- 🏢 Working at **[Algosolver LLC](https://algosolver.com/)** as a **Lead Backend Engineer**.
+- 👨‍💻 Writing `Typescript` `JavaScript` `Go` `PHP` `SQL` `HTML` `CSS` .
+- 📚 Currently learning about **blockchain**, **clean architecture**, **large scale system design**, and **technical pitch**.
 
 
 
-![Programming Info](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/info.png "Programming Info")
+#### What my skill set looks like?
+- 🗄️ **Back-end:**
+    - **📜 Languages:** • `🌀 Typescript` • `✨ Javascript` • `⚡ GO` • `🧩 PHP`
+    - **🔭 Frameworks:** • `NestJs` • `Express` • `Laravel`
+    - **💾 Databases:** • `Postgres` • `MySql` • `MongoDB` • `Redis` • `SQLite`  
+<!--     - **🎛 System architecture:** • -->
+<!--     - **🔌 Communication protocols:** • -->
+- 🖥 **Front-end:** 
+    - **📜 Languages:** • `🌀 Typescript` • `✨ Javascript` • `🧩 PHP` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
+    - **🔭 Frameworks:** • `ReactJs` • `NextJs` • `Svelte`  • `Laravel` 
+<!--     - **🔌 Communication protocols:** • -->
+
+
+#### What I like to disscuss about? 
+- 💬 Ask me about `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `new frameworks` and `tech culture`.
+
+<!-- ![Programming Info](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/info.png "Programming Info") -->
 
 🙋 Contact Me
 
