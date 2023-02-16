@@ -7,13 +7,13 @@ Isn't it enough?! Okay, Let's try again.
 #### Who I am?
 - A product architect based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 🇧🇩
 - Have more than 4 years of hands-on experience in **application development, technology consulting, stakeholder engagement, product architect.**
-- Developed products for **marketplace, logistics,** and **retails** business domains.
+- Developed products for **marketplace, logistics, saas** and **retails** business domains.
 - Have built **hybrid mobile app,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 
 #### What I'm doing?
 - 🏢 Working at **[Algosolver LLC](https://algosolver.com/)** as a **Lead Backend Engineer**.
-- 👨‍💻 Writing `Typescript` `JavaScript` `Go` `PHP` `SQL` `HTML` `CSS` .
+- 👨‍💻 Writing `🌀 Typescript` `✨ JavaScript` `⚡ Go` `🧩 PHP` `💾 SQL` `🧚🏻‍♂️ HTML` `🎨 CSS` .
 - 📚 Currently learning about **blockchain**, **clean architecture**, **large scale system design**, and **technical pitch**.
 
 
@@ -28,7 +28,7 @@ Isn't it enough?! Okay, Let's try again.
 
 - 🖥 **Front-end:** 
     - **📜 Languages:** • `🌀 Typescript` • `✨ Javascript` • `🧩 PHP` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
-    - **🔭 Frameworks:** • `ReactJs` • `NextJs` • `Svelte`  • `Laravel` 
+    - **🔭 Frameworks:** • `ReactJs` • `NextJs` • `Svelte`  • `Flutter` • `Laravel` 
     
 <!--     - **🔌 Communication protocols:** • -->
 #### :yawning_face: Bored?
