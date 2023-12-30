@@ -6,13 +6,13 @@ Isn't it enough?! Okay, Let's try again.
 
 #### Who I am?
 - A product architect based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 🇧🇩
-- Have more than 4 years of hands-on experience in **application development, technology consulting, stakeholder engagement, product architect.**
+- Have more than 5 years of hands-on experience in **application development, technology consulting, stakeholder engagement, product architect.**
 - Developed products for **marketplace, logistics, saas** and **retails** business domains.
 - Have built **hybrid mobile app,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 
 #### What I'm doing?
-- 🏢 Working at **[Algosolver LLC](https://algosolver.com/)** as a **Lead Backend Engineer**.
+- 🏢 Working at **[FourBit Tech](https://fourbit.io/)** as a **Lead Backend Engineer**.
 - 👨‍💻 Writing `🌀 Typescript` `✨ JavaScript` `⚡ Go` `🧩 PHP` `💾 SQL` `🧚🏻‍♂️ HTML` `🎨 CSS` .
 - 📚 Currently learning about **blockchain**, **clean architecture**, **large scale system design**, and **technical pitch**.
 
@@ -32,6 +32,8 @@ Isn't it enough?! Okay, Let's try again.
     
 <!--     - **🔌 Communication protocols:** • -->
 #### :yawning_face: Bored?
+ Watch my stream 😎
+
 ![Bored](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/dino.gif "Bored !")
 
 #### What I like to disscuss about? 
