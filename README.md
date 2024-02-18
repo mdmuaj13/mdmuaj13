@@ -20,7 +20,7 @@ Isn't it enough?! Okay, Let's try again.
 
 #### What my skill set looks like?
 - 🗄️ **Back-end:**
-    - **📜 Languages:** • `🌀 Typescript` • `✨ Javascript` • `⚡ GO` • `🧩 PHP`
+    - **📜 Languages:** • `🌀 Typescript` • `✨ Javascript` • `🧩 PHP` • `🐸 Python`  • `⚡ GO` 
     - **🔭 Frameworks:** • `NestJs` • `Express` • `Laravel`
     - **💾 Databases:** • `Postgres` • `MySql` • `MongoDB` • `Redis` • `SQLite`  
     - **🔌 Servers:**  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) 
