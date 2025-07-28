@@ -30,13 +30,14 @@ Isn't it enough?! Okay, Let's try again.
     - **📜 Languages:** • `🌀 Typescript` • `✨ Javascript` • `🧩 PHP` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
     - **🔭 Frameworks:** • `ReactJs` • `NextJs` • `Svelte`  • `Flutter` • `Laravel` 
 
-#### Resume
+#### **Resume**
 <a href="https://cdn.jsdelivr.net/gh/mdmuaj13/mdmuaj13@master/resume/Mohaiminul_Hasan_s_Resume_280725.pdf">
     <img align="left" alt="Mohaiminul Hasan's Resume" width="100px" src="https://img.shields.io/badge/View-mohaiminul_hasan_resume-green)" />
 </a> 
+<br />
 
 <!--     - **🔌 Communication protocols:** • -->
-#### :yawning_face: Bored?
+### :yawning_face: Bored?
  Watch my stream 😎
 
 ![Bored](https://raw.githubusercontent.com/mdmuaj13/mdmuaj13/master/files/dino.gif "Bored !")
